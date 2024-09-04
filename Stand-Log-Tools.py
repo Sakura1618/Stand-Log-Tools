@@ -10,7 +10,7 @@ highlight_lines = {
     "崩溃": "red",
     "重复": "yellow",
     "攻击": "red",
-    "踢出": "red",
+    "踢": "red",
     "主机": "Turquoise",
     "脚本主机": "LightSeaGreen",
     "事件": "red",
