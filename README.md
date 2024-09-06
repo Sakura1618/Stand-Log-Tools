@@ -21,7 +21,7 @@ A real-time log viewing tool for Stand
   + White: Chat & Other
 
 ## Use
-+ Download the latest version at the [Releases](https://github.com/Sakura1618/Stand-Log-Tools/releases) page
++ Download the [**latest version**](https://github.com/Sakura1618/Stand-Log-Tools/releases/latest) at the Releases page
   + Full: load all logs
   + Lite: loads the last 50 lines of logs
 + Run the exe file  

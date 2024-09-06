@@ -21,7 +21,7 @@
   + 白：聊天&其它
 
 ## 使用
-+ 在 [Releases](https://github.com/Sakura1618/Stand-Log-Tools/releases) 页面下载最新版本
++ 在 Releases 页面下载 [**最新版本**](https://github.com/Sakura1618/Stand-Log-Tools/releases/latest)
   + Full：加载全部日志
   + Lite：加载最后 50 行日志
 + 运行 exe 文件  
