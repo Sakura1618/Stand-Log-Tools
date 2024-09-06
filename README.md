@@ -36,3 +36,6 @@ It is recommended to run the game on the main screen and view the tool on the se
 + Customize colors
 + Customize view content
 + Fixed top level
+
+## Acknowledgments
+Inspiration: 君狐老师 - 小狐狸控制台
