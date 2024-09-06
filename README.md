@@ -6,13 +6,13 @@
 A real-time log viewing tool for Stand
 
 ## Features
-+ Automatically recognize log.txt locations
-+ Display Stand logs in real time
-+ Does not show historical logs (reduces loading time)
++ Auto-detect log.txt location (does not support custom locations on other disks).
++ Display historical logs
++ Show new Stand logs in real time
 + Windows 11 Chinese support
 + Better Chinese fonts
-+ Automatically adapt to high DPI monitors
-+ Highlighting for different types of logs
++ Adapt to high DPI monitors
++ Add highlighting for different types of logs
   + Yellow: detections, repetitions
   + Red: crashes, attacks, kicks, events
   + Blue: (scripted) host turnover
@@ -20,11 +20,19 @@ A real-time log viewing tool for Stand
   + Gray: Timestamps
   + White: Chat & Other
 
-## To-do
-*Limited ability, learning as I go
+## Use
++ Download the latest version at the [Releases](https://github.com/Sakura1618/Stand-Log-Tools/releases) page
+  + Full: load all logs
+  + Lite: loads the last 50 lines of logs
++ Run the exe file  
+
+It is recommended to run the game on the main screen and view the tool on the secondary screen.
+
+## Pending
+*Welcome to submit PRs*
 
 + Graphical User Interface
 + Manually select log.txt location
 + Customize colors
-+ Customize what to view
-+ View historical logs
++ Customize view content
++ Fixed top level
